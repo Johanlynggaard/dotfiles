@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = johan.lynggaard@gmail.com
+	name = Johan Lynggaard
